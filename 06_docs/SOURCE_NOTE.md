@@ -1,0 +1,1 @@
+Source basis: Innovaccer Internship — Data Analyst (2027) job description supplied in the conversation. The project is a self-created synthetic portfolio implementation; it is not an Innovaccer internal dataset or product replica.

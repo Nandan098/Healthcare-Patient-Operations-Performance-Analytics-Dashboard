@@ -1,0 +1,55 @@
+-- Power BI DAX Measures
+-- Create a Date table and relate Date[Date] -> Encounters[Service_Date].
+
+Total Encounters =
+COUNTROWS(Encounters)
+
+Unique Patients =
+DISTINCTCOUNT(Encounters[Patient_ID])
+
+Admissions =
+CALCULATE(
+    [Total Encounters],
+    Encounters[Encounter_Type] IN { "Inpatient", "Observation" }
+)
+
+Avg Wait (Min) =
+AVERAGE(Encounters[Wait_Time_Minutes])
+
+Avg Inpatient LOS (Days) =
+CALCULATE(
+    AVERAGE(Encounters[Length_of_Stay_Days]),
+    Encounters[Encounter_Type] = "Inpatient",
+    Encounters[Length_of_Stay_Days] > 0
+)
+
+30d Readmissions =
+SUM(Encounters[Readmission_30d])
+
+30d Readmission Rate =
+DIVIDE([30d Readmissions], [Admissions], 0)
+
+Total Billed =
+SUM(Encounters[Billed_Amount])
+
+Total Paid =
+SUM(Encounters[Paid_Amount])
+
+Collection Rate =
+DIVIDE([Total Paid], [Total Billed], 0)
+
+Average Billed / Encounter =
+DIVIDE([Total Billed], [Total Encounters], 0)
+
+Completed Encounters =
+CALCULATE(
+    [Total Encounters],
+    Encounters[Encounter_Status] = "Completed"
+)
+
+No-Show Rate =
+DIVIDE(
+    CALCULATE([Total Encounters], Encounters[Encounter_Status] = "No-show"),
+    [Total Encounters],
+    0
+)

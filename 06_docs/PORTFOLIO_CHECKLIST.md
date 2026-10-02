@@ -1,0 +1,23 @@
+# Portfolio Checklist
+
+- [x] Raw healthcare data included
+- [x] SQLite relational database included
+- [x] SQL schema included
+- [x] SQL quality checks included
+- [x] SQL business analysis queries included
+- [x] Clean semantic SQL view included
+- [x] Python analysis script included
+- [x] Jupyter notebook included
+- [x] Data-quality output included
+- [x] Department KPI output included
+- [x] Monthly trend output included
+- [x] Diagnosis KPI output included
+- [x] Provider KPI output included
+- [x] Patient utilization output included
+- [x] Anomaly output included
+- [x] Power BI DAX measures included
+- [x] Power BI model/build guide included
+- [x] Dashboard PNGs included
+- [x] Interview Q&A included
+- [x] Resume bullets included
+- [ ] Build native PBIX in Power BI Desktop

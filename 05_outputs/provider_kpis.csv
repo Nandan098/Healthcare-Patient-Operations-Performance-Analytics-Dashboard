@@ -1,0 +1,171 @@
+Provider_ID,Provider_Display_Name,Department_Name,Specialty,Encounters,Patients,Admissions,Avg_Wait_Minutes,Billed_Amount,Readmissions_30d,Readmission_Rate
+DR0001,Provider_0001,Emergency,Emergency,219,217,17,68.8,259887.1,0,0.0
+DR0002,Provider_0002,Emergency,Emergency,217,215,9,81.1,236414.14,0,0.0
+DR0003,Provider_0003,Emergency,Emergency,254,253,29,73.9,305094.9,2,0.069
+DR0004,Provider_0004,Emergency,Emergency,245,244,20,71.5,277063.2,0,0.0
+DR0005,Provider_0005,Emergency,Emergency,230,227,11,72.8,254691.63,0,0.0
+DR0006,Provider_0006,Emergency,Emergency,240,239,14,72.1,256536.87,0,0.0
+DR0007,Provider_0007,Emergency,Emergency,219,219,15,79.4,241110.18,0,0.0
+DR0008,Provider_0008,Emergency,Emergency,236,235,20,67.9,298484.96,0,0.0
+DR0009,Provider_0009,Emergency,Emergency,219,219,16,74.3,241495.5,0,0.0
+DR0010,Provider_0010,Emergency,Emergency,234,231,14,78.7,287013.14,1,0.0714
+DR0011,Provider_0011,Emergency,Emergency,236,235,21,78.5,294171.74,0,0.0
+DR0012,Provider_0012,Emergency,Emergency,239,237,16,72.8,266864.81,0,0.0
+DR0013,Provider_0013,Emergency,Emergency,221,219,17,68.6,246469.6,1,0.0588
+DR0014,Provider_0014,Emergency,Emergency,242,242,20,79.2,278101.97,0,0.0
+DR0015,Provider_0015,Emergency,Emergency,215,212,11,77.3,229625.79,0,0.0
+DR0016,Provider_0016,Emergency,Emergency,226,226,22,75.7,256265.62,1,0.0455
+DR0017,Provider_0017,Emergency,Emergency,230,228,24,73.0,265195.19,1,0.0417
+DR0018,Provider_0018,Emergency,Emergency,242,238,16,76.4,278271.67,1,0.0625
+DR0019,Provider_0019,Emergency,Emergency,224,224,18,75.1,252531.53,2,0.1111
+DR0020,Provider_0020,Emergency,Emergency,223,223,20,72.5,242168.11,0,0.0
+DR0021,Provider_0021,Emergency,Emergency,221,220,21,73.5,260800.38,0,0.0
+DR0022,Provider_0022,Emergency,Emergency,237,234,13,77.0,270389.03,0,0.0
+DR0023,Provider_0023,Emergency,Emergency,214,212,18,78.5,254672.32,1,0.0556
+DR0024,Provider_0024,Emergency,Emergency,265,261,30,79.4,318020.69,2,0.0667
+DR0025,Provider_0025,Emergency,Emergency,217,214,17,72.9,265500.09,1,0.0588
+DR0026,Provider_0026,Emergency,Emergency,232,232,19,76.5,266368.63,0,0.0
+DR0027,Provider_0027,Emergency,Emergency,217,215,18,72.2,238510.15,2,0.1111
+DR0028,Provider_0028,Emergency,Emergency,223,221,21,76.2,262055.81,0,0.0
+DR0029,Provider_0029,Emergency,Emergency,239,239,21,77.1,264063.66,1,0.0476
+DR0030,Provider_0030,Emergency,Emergency,239,235,20,72.8,271173.27,1,0.05
+DR0031,Provider_0031,General Medicine,Internal Medicine,130,130,62,44.5,516111.01,4,0.0645
+DR0032,Provider_0032,General Medicine,Hospital Medicine,131,129,57,43.6,460773.29,1,0.0175
+DR0033,Provider_0033,General Medicine,Internal Medicine,154,154,68,41.7,561195.24,4,0.0588
+DR0034,Provider_0034,General Medicine,Hospital Medicine,120,117,57,48.2,406051.47,0,0.0
+DR0035,Provider_0035,General Medicine,Internal Medicine,145,144,57,41.0,519981.66,3,0.0526
+DR0036,Provider_0036,General Medicine,Hospital Medicine,144,144,55,40.4,652423.22,3,0.0545
+DR0037,Provider_0037,General Medicine,Internal Medicine,136,135,52,37.6,432472.98,4,0.0769
+DR0038,Provider_0038,General Medicine,Hospital Medicine,131,131,51,42.9,476417.88,1,0.0196
+DR0039,Provider_0039,General Medicine,Internal Medicine,139,137,59,40.8,486771.36,1,0.0169
+DR0040,Provider_0040,General Medicine,Internal Medicine,142,142,61,44.9,477519.07,2,0.0328
+DR0041,Provider_0041,General Medicine,Hospital Medicine,150,149,71,43.3,570341.89,1,0.0141
+DR0042,Provider_0042,General Medicine,Hospital Medicine,138,138,51,36.9,440039.37,1,0.0196
+DR0043,Provider_0043,General Medicine,Hospital Medicine,136,136,51,39.6,464152.05,0,0.0
+DR0044,Provider_0044,General Medicine,Internal Medicine,149,147,72,45.5,662320.44,7,0.0972
+DR0045,Provider_0045,General Medicine,Hospital Medicine,154,153,63,37.3,470685.49,2,0.0317
+DR0046,Provider_0046,General Medicine,Internal Medicine,138,137,54,41.1,432285.02,1,0.0185
+DR0047,Provider_0047,General Medicine,Hospital Medicine,148,146,62,42.4,560053.21,1,0.0161
+DR0048,Provider_0048,General Medicine,Internal Medicine,136,134,60,41.2,569088.7,5,0.0833
+DR0049,Provider_0049,General Medicine,Hospital Medicine,169,169,78,41.7,627736.9,5,0.0641
+DR0050,Provider_0050,General Medicine,Hospital Medicine,157,156,64,40.7,613710.41,1,0.0156
+DR0051,Provider_0051,General Medicine,Hospital Medicine,148,147,70,48.4,579337.76,2,0.0286
+DR0052,Provider_0052,General Medicine,Hospital Medicine,151,151,59,40.4,485640.54,3,0.0508
+DR0053,Provider_0053,General Medicine,Hospital Medicine,134,134,66,45.4,551492.72,1,0.0152
+DR0054,Provider_0054,General Medicine,Internal Medicine,142,141,54,38.9,431719.81,2,0.037
+DR0055,Provider_0055,General Medicine,Internal Medicine,143,143,62,39.5,429138.87,2,0.0323
+DR0056,Provider_0056,General Medicine,Internal Medicine,157,157,66,43.3,581752.05,3,0.0455
+DR0057,Provider_0057,General Medicine,Internal Medicine,152,152,78,42.3,638134.45,6,0.0769
+DR0058,Provider_0058,General Medicine,Internal Medicine,133,133,52,39.7,470010.26,2,0.0385
+DR0059,Provider_0059,General Medicine,Internal Medicine,141,139,73,45.1,545163.73,4,0.0548
+DR0060,Provider_0060,General Medicine,Internal Medicine,144,144,58,40.9,523221.31,2,0.0345
+DR0061,Provider_0061,General Medicine,Internal Medicine,116,115,48,42.5,419624.38,4,0.0833
+DR0062,Provider_0062,General Medicine,Internal Medicine,155,154,68,42.3,578956.55,1,0.0147
+DR0063,Provider_0063,General Medicine,Hospital Medicine,169,168,77,45.2,697085.71,4,0.0519
+DR0064,Provider_0064,General Medicine,Internal Medicine,130,130,53,39.5,453717.38,3,0.0566
+DR0065,Provider_0065,General Medicine,Hospital Medicine,114,114,37,36.3,376510.21,3,0.0811
+DR0066,Provider_0066,General Medicine,Internal Medicine,142,142,59,39.3,519001.27,4,0.0678
+DR0067,Provider_0067,Cardiology,Cardiology,145,145,84,43.6,838222.39,4,0.0476
+DR0068,Provider_0068,Cardiology,Cardiology,141,141,81,45.1,852155.19,2,0.0247
+DR0069,Provider_0069,Cardiology,Cardiology,130,130,70,45.6,698873.46,5,0.0714
+DR0070,Provider_0070,Cardiology,Cardiology,114,113,58,43.1,609276.11,1,0.0172
+DR0071,Provider_0071,Cardiology,Cardiology,138,138,71,41.4,710691.41,3,0.0423
+DR0072,Provider_0072,Cardiology,Cardiology,137,135,75,52.6,827171.73,2,0.0267
+DR0073,Provider_0073,Cardiology,Cardiology,143,143,68,42.2,602929.64,2,0.0294
+DR0074,Provider_0074,Cardiology,Cardiology,123,123,64,48.3,577162.15,3,0.0469
+DR0075,Provider_0075,Cardiology,Cardiology,151,151,76,47.5,747841.91,5,0.0658
+DR0076,Provider_0076,Cardiology,Cardiology,155,154,82,46.7,942779.82,4,0.0488
+DR0077,Provider_0077,Cardiology,Cardiology,117,116,58,43.9,617055.34,2,0.0345
+DR0078,Provider_0078,Cardiology,Cardiology,135,135,73,47.4,769009.44,1,0.0137
+DR0079,Provider_0079,Cardiology,Cardiology,132,132,75,46.9,755608.7,4,0.0533
+DR0080,Provider_0080,Cardiology,Cardiology,124,124,65,45.1,603340.19,2,0.0308
+DR0081,Provider_0081,Cardiology,Cardiology,151,151,83,46.6,909418.36,1,0.012
+DR0082,Provider_0082,Cardiology,Cardiology,142,142,85,45.2,901280.69,4,0.0471
+DR0083,Provider_0083,Cardiology,Cardiology,147,146,74,47.6,745297.26,1,0.0135
+DR0084,Provider_0084,Cardiology,Cardiology,133,133,58,44.1,615804.71,1,0.0172
+DR0085,Provider_0085,Orthopedics,Orthopedics,170,168,67,39.7,489267.79,3,0.0448
+DR0086,Provider_0086,Orthopedics,Orthopedics,154,153,62,41.3,466286.84,3,0.0484
+DR0087,Provider_0087,Orthopedics,Orthopedics,155,155,68,41.9,466749.07,2,0.0294
+DR0088,Provider_0088,Orthopedics,Orthopedics,155,155,66,40.7,580115.22,2,0.0303
+DR0089,Provider_0089,Orthopedics,Orthopedics,141,141,53,41.9,365866.76,1,0.0189
+DR0090,Provider_0090,Orthopedics,Orthopedics,169,167,61,41.7,431426.79,3,0.0492
+DR0091,Provider_0091,Orthopedics,Orthopedics,142,142,61,39.6,398312.71,3,0.0492
+DR0092,Provider_0092,Orthopedics,Orthopedics,141,141,49,34.3,301866.7,1,0.0204
+DR0093,Provider_0093,Orthopedics,Orthopedics,168,168,60,38.4,389379.76,6,0.1
+DR0094,Provider_0094,Orthopedics,Orthopedics,156,154,50,37.7,383987.86,4,0.08
+DR0095,Provider_0095,Orthopedics,Orthopedics,138,136,46,37.3,435515.44,1,0.0217
+DR0096,Provider_0096,Orthopedics,Orthopedics,179,179,79,43.9,644858.27,5,0.0633
+DR0097,Provider_0097,Orthopedics,Orthopedics,153,152,53,39.4,453959.02,2,0.0377
+DR0098,Provider_0098,Orthopedics,Orthopedics,150,150,60,40.7,533404.15,3,0.05
+DR0099,Provider_0099,Orthopedics,Orthopedics,135,134,47,38.1,307495.42,2,0.0426
+DR0100,Provider_0100,Oncology,Oncology,150,149,42,34.0,564760.77,2,0.0476
+DR0101,Provider_0101,Oncology,Oncology,155,154,37,34.4,542937.74,5,0.1351
+DR0102,Provider_0102,Oncology,Oncology,140,139,43,37.7,540433.12,2,0.0465
+DR0103,Provider_0103,Oncology,Oncology,121,121,29,33.6,351611.77,1,0.0345
+DR0104,Provider_0104,Oncology,Oncology,150,149,51,42.5,666558.11,0,0.0
+DR0105,Provider_0105,Oncology,Oncology,155,155,46,36.5,571384.1,2,0.0435
+DR0106,Provider_0106,Oncology,Oncology,144,144,49,40.2,597479.04,3,0.0612
+DR0107,Provider_0107,Oncology,Oncology,162,162,46,39.1,517098.79,1,0.0217
+DR0108,Provider_0108,Oncology,Oncology,124,124,33,36.5,426037.46,1,0.0303
+DR0109,Provider_0109,Oncology,Oncology,146,146,30,30.9,391879.61,2,0.0667
+DR0110,Provider_0110,Oncology,Oncology,131,131,41,37.3,483599.72,0,0.0
+DR0111,Provider_0111,Oncology,Oncology,131,129,38,39.1,484950.01,5,0.1316
+DR0112,Provider_0112,Pediatrics,Pediatrics,119,119,7,36.3,99644.5,0,0.0
+DR0113,Provider_0113,Pediatrics,Pediatrics,121,121,7,37.4,107891.12,0,0.0
+DR0114,Provider_0114,Pediatrics,Pediatrics,93,93,8,32.7,112088.03,0,0.0
+DR0115,Provider_0115,Pediatrics,Pediatrics,124,124,5,28.9,84367.49,0,0.0
+DR0116,Provider_0116,Pediatrics,Pediatrics,121,120,9,34.5,140969.23,1,0.1111
+DR0117,Provider_0117,Pediatrics,Pediatrics,126,126,6,36.8,120549.47,0,0.0
+DR0118,Provider_0118,Pediatrics,Pediatrics,126,125,9,40.8,148345.42,0,0.0
+DR0119,Provider_0119,Pediatrics,Pediatrics,123,123,4,39.5,122606.7,0,0.0
+DR0120,Provider_0120,Pediatrics,Pediatrics,114,114,8,34.6,107011.68,0,0.0
+DR0121,Provider_0121,Pediatrics,Pediatrics,142,142,10,35.6,180403.74,0,0.0
+DR0122,Provider_0122,Pediatrics,Pediatrics,113,113,8,33.8,153720.42,0,0.0
+DR0123,Provider_0123,Pediatrics,Pediatrics,119,119,5,32.9,111786.72,0,0.0
+DR0124,Provider_0124,Pediatrics,Pediatrics,107,107,2,37.9,75357.48,0,0.0
+DR0125,Provider_0125,Obstetrics,Obstetrics,142,140,100,55.8,997983.52,2,0.02
+DR0126,Provider_0126,Obstetrics,Obstetrics,120,120,92,61.3,831426.99,3,0.0326
+DR0127,Provider_0127,Obstetrics,Obstetrics,114,113,75,50.5,644983.34,2,0.0267
+DR0128,Provider_0128,Obstetrics,Obstetrics,138,138,94,54.1,886680.19,3,0.0319
+DR0129,Provider_0129,Obstetrics,Obstetrics,118,117,80,50.7,702369.87,3,0.0375
+DR0130,Provider_0130,Obstetrics,Obstetrics,110,110,87,58.0,792069.49,3,0.0345
+DR0131,Provider_0131,Obstetrics,Obstetrics,114,114,78,51.0,695557.58,5,0.0641
+DR0132,Provider_0132,Obstetrics,Obstetrics,116,116,76,51.9,726947.7,2,0.0263
+DR0133,Provider_0133,Obstetrics,Obstetrics,123,123,85,52.7,739745.06,2,0.0235
+DR0134,Provider_0134,Obstetrics,Obstetrics,124,124,91,55.8,833340.07,4,0.044
+DR0135,Provider_0135,Neurology,Neurology,125,125,44,38.8,402860.45,3,0.0682
+DR0136,Provider_0136,Neurology,Neurology,127,126,51,40.9,445147.46,1,0.0196
+DR0137,Provider_0137,Neurology,Neurology,144,142,57,39.7,482355.23,6,0.1053
+DR0138,Provider_0138,Neurology,Neurology,106,106,42,41.0,336338.74,2,0.0476
+DR0139,Provider_0139,Neurology,Neurology,130,129,52,40.9,449496.61,3,0.0577
+DR0140,Provider_0140,Neurology,Neurology,114,114,40,39.9,333940.05,0,0.0
+DR0141,Provider_0141,Neurology,Neurology,136,135,48,42.0,353036.43,1,0.0208
+DR0142,Provider_0142,Neurology,Neurology,121,120,33,35.5,392363.55,3,0.0909
+DR0143,Provider_0143,Neurology,Neurology,113,111,33,34.1,309467.93,1,0.0303
+DR0144,Provider_0144,Neurology,Neurology,116,116,47,42.8,422101.37,0,0.0
+DR0145,Provider_0145,Surgery,Surgery,91,91,58,50.6,533745.31,3,0.0517
+DR0146,Provider_0146,Surgery,Surgery,85,85,56,53.3,606953.8,2,0.0357
+DR0147,Provider_0147,Surgery,Surgery,127,126,79,49.4,893581.33,2,0.0253
+DR0148,Provider_0148,Surgery,Surgery,130,129,86,54.1,979265.74,4,0.0465
+DR0149,Provider_0149,Surgery,Surgery,116,115,72,49.6,690017.84,3,0.0417
+DR0150,Provider_0150,Surgery,Surgery,120,120,83,49.5,996822.07,1,0.012
+DR0151,Provider_0151,Surgery,Surgery,106,106,74,52.5,757768.87,2,0.027
+DR0152,Provider_0152,Surgery,Surgery,110,109,81,53.1,823280.03,3,0.037
+DR0153,Provider_0153,Surgery,Surgery,116,116,76,51.1,915222.45,3,0.0395
+DR0154,Provider_0154,Surgery,Surgery,109,108,72,50.4,899300.77,2,0.0278
+DR0155,Provider_0155,Surgery,Surgery,113,113,77,56.5,911532.11,1,0.013
+DR0156,Provider_0156,Surgery,Surgery,99,99,62,42.1,715451.04,2,0.0323
+DR0157,Provider_0157,Surgery,Surgery,108,108,74,55.0,866415.5,5,0.0676
+DR0158,Provider_0158,Surgery,Surgery,100,100,69,54.0,772171.26,2,0.029
+DR0159,Provider_0159,Other,Other,107,107,26,39.0,204852.08,1,0.0385
+DR0160,Provider_0160,Other,Other,100,100,21,42.1,163806.25,0,0.0
+DR0161,Provider_0161,Other,Other,102,102,32,42.1,277223.95,0,0.0
+DR0162,Provider_0162,Other,Other,103,103,23,43.3,211886.51,0,0.0
+DR0163,Provider_0163,Other,Other,96,96,32,48.0,216188.34,1,0.0312
+DR0164,Provider_0164,Other,Other,124,124,39,39.3,344546.97,1,0.0256
+DR0165,Provider_0165,Other,Other,129,129,31,39.6,290906.68,1,0.0323
+DR0166,Provider_0166,Other,Other,111,111,33,40.2,231543.62,2,0.0606
+DR0167,Provider_0167,Other,Other,111,110,29,41.8,181878.28,0,0.0
+DR0168,Provider_0168,Other,Other,96,96,20,41.3,199276.33,1,0.05
+DR0169,Provider_0169,Other,Other,113,113,22,34.8,191646.88,1,0.0455
+DR0170,Provider_0170,Other,Other,107,107,35,38.2,277209.42,1,0.0286

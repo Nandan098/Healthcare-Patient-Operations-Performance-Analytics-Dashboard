@@ -1,0 +1,171 @@
+Provider_ID,Provider_Display_Name,Department_ID,Specialty
+DR0001,Provider_0001,DEP01,Emergency
+DR0002,Provider_0002,DEP01,Emergency
+DR0003,Provider_0003,DEP01,Emergency
+DR0004,Provider_0004,DEP01,Emergency
+DR0005,Provider_0005,DEP01,Emergency
+DR0006,Provider_0006,DEP01,Emergency
+DR0007,Provider_0007,DEP01,Emergency
+DR0008,Provider_0008,DEP01,Emergency
+DR0009,Provider_0009,DEP01,Emergency
+DR0010,Provider_0010,DEP01,Emergency
+DR0011,Provider_0011,DEP01,Emergency
+DR0012,Provider_0012,DEP01,Emergency
+DR0013,Provider_0013,DEP01,Emergency
+DR0014,Provider_0014,DEP01,Emergency
+DR0015,Provider_0015,DEP01,Emergency
+DR0016,Provider_0016,DEP01,Emergency
+DR0017,Provider_0017,DEP01,Emergency
+DR0018,Provider_0018,DEP01,Emergency
+DR0019,Provider_0019,DEP01,Emergency
+DR0020,Provider_0020,DEP01,Emergency
+DR0021,Provider_0021,DEP01,Emergency
+DR0022,Provider_0022,DEP01,Emergency
+DR0023,Provider_0023,DEP01,Emergency
+DR0024,Provider_0024,DEP01,Emergency
+DR0025,Provider_0025,DEP01,Emergency
+DR0026,Provider_0026,DEP01,Emergency
+DR0027,Provider_0027,DEP01,Emergency
+DR0028,Provider_0028,DEP01,Emergency
+DR0029,Provider_0029,DEP01,Emergency
+DR0030,Provider_0030,DEP01,Emergency
+DR0031,Provider_0031,DEP02,Internal Medicine
+DR0032,Provider_0032,DEP02,Hospital Medicine
+DR0033,Provider_0033,DEP02,Internal Medicine
+DR0034,Provider_0034,DEP02,Hospital Medicine
+DR0035,Provider_0035,DEP02,Internal Medicine
+DR0036,Provider_0036,DEP02,Hospital Medicine
+DR0037,Provider_0037,DEP02,Internal Medicine
+DR0038,Provider_0038,DEP02,Hospital Medicine
+DR0039,Provider_0039,DEP02,Internal Medicine
+DR0040,Provider_0040,DEP02,Internal Medicine
+DR0041,Provider_0041,DEP02,Hospital Medicine
+DR0042,Provider_0042,DEP02,Hospital Medicine
+DR0043,Provider_0043,DEP02,Hospital Medicine
+DR0044,Provider_0044,DEP02,Internal Medicine
+DR0045,Provider_0045,DEP02,Hospital Medicine
+DR0046,Provider_0046,DEP02,Internal Medicine
+DR0047,Provider_0047,DEP02,Hospital Medicine
+DR0048,Provider_0048,DEP02,Internal Medicine
+DR0049,Provider_0049,DEP02,Hospital Medicine
+DR0050,Provider_0050,DEP02,Hospital Medicine
+DR0051,Provider_0051,DEP02,Hospital Medicine
+DR0052,Provider_0052,DEP02,Hospital Medicine
+DR0053,Provider_0053,DEP02,Hospital Medicine
+DR0054,Provider_0054,DEP02,Internal Medicine
+DR0055,Provider_0055,DEP02,Internal Medicine
+DR0056,Provider_0056,DEP02,Internal Medicine
+DR0057,Provider_0057,DEP02,Internal Medicine
+DR0058,Provider_0058,DEP02,Internal Medicine
+DR0059,Provider_0059,DEP02,Internal Medicine
+DR0060,Provider_0060,DEP02,Internal Medicine
+DR0061,Provider_0061,DEP02,Internal Medicine
+DR0062,Provider_0062,DEP02,Internal Medicine
+DR0063,Provider_0063,DEP02,Hospital Medicine
+DR0064,Provider_0064,DEP02,Internal Medicine
+DR0065,Provider_0065,DEP02,Hospital Medicine
+DR0066,Provider_0066,DEP02,Internal Medicine
+DR0067,Provider_0067,DEP03,Cardiology
+DR0068,Provider_0068,DEP03,Cardiology
+DR0069,Provider_0069,DEP03,Cardiology
+DR0070,Provider_0070,DEP03,Cardiology
+DR0071,Provider_0071,DEP03,Cardiology
+DR0072,Provider_0072,DEP03,Cardiology
+DR0073,Provider_0073,DEP03,Cardiology
+DR0074,Provider_0074,DEP03,Cardiology
+DR0075,Provider_0075,DEP03,Cardiology
+DR0076,Provider_0076,DEP03,Cardiology
+DR0077,Provider_0077,DEP03,Cardiology
+DR0078,Provider_0078,DEP03,Cardiology
+DR0079,Provider_0079,DEP03,Cardiology
+DR0080,Provider_0080,DEP03,Cardiology
+DR0081,Provider_0081,DEP03,Cardiology
+DR0082,Provider_0082,DEP03,Cardiology
+DR0083,Provider_0083,DEP03,Cardiology
+DR0084,Provider_0084,DEP03,Cardiology
+DR0085,Provider_0085,DEP04,Orthopedics
+DR0086,Provider_0086,DEP04,Orthopedics
+DR0087,Provider_0087,DEP04,Orthopedics
+DR0088,Provider_0088,DEP04,Orthopedics
+DR0089,Provider_0089,DEP04,Orthopedics
+DR0090,Provider_0090,DEP04,Orthopedics
+DR0091,Provider_0091,DEP04,Orthopedics
+DR0092,Provider_0092,DEP04,Orthopedics
+DR0093,Provider_0093,DEP04,Orthopedics
+DR0094,Provider_0094,DEP04,Orthopedics
+DR0095,Provider_0095,DEP04,Orthopedics
+DR0096,Provider_0096,DEP04,Orthopedics
+DR0097,Provider_0097,DEP04,Orthopedics
+DR0098,Provider_0098,DEP04,Orthopedics
+DR0099,Provider_0099,DEP04,Orthopedics
+DR0100,Provider_0100,DEP05,Oncology
+DR0101,Provider_0101,DEP05,Oncology
+DR0102,Provider_0102,DEP05,Oncology
+DR0103,Provider_0103,DEP05,Oncology
+DR0104,Provider_0104,DEP05,Oncology
+DR0105,Provider_0105,DEP05,Oncology
+DR0106,Provider_0106,DEP05,Oncology
+DR0107,Provider_0107,DEP05,Oncology
+DR0108,Provider_0108,DEP05,Oncology
+DR0109,Provider_0109,DEP05,Oncology
+DR0110,Provider_0110,DEP05,Oncology
+DR0111,Provider_0111,DEP05,Oncology
+DR0112,Provider_0112,DEP06,Pediatrics
+DR0113,Provider_0113,DEP06,Pediatrics
+DR0114,Provider_0114,DEP06,Pediatrics
+DR0115,Provider_0115,DEP06,Pediatrics
+DR0116,Provider_0116,DEP06,Pediatrics
+DR0117,Provider_0117,DEP06,Pediatrics
+DR0118,Provider_0118,DEP06,Pediatrics
+DR0119,Provider_0119,DEP06,Pediatrics
+DR0120,Provider_0120,DEP06,Pediatrics
+DR0121,Provider_0121,DEP06,Pediatrics
+DR0122,Provider_0122,DEP06,Pediatrics
+DR0123,Provider_0123,DEP06,Pediatrics
+DR0124,Provider_0124,DEP06,Pediatrics
+DR0125,Provider_0125,DEP07,Obstetrics
+DR0126,Provider_0126,DEP07,Obstetrics
+DR0127,Provider_0127,DEP07,Obstetrics
+DR0128,Provider_0128,DEP07,Obstetrics
+DR0129,Provider_0129,DEP07,Obstetrics
+DR0130,Provider_0130,DEP07,Obstetrics
+DR0131,Provider_0131,DEP07,Obstetrics
+DR0132,Provider_0132,DEP07,Obstetrics
+DR0133,Provider_0133,DEP07,Obstetrics
+DR0134,Provider_0134,DEP07,Obstetrics
+DR0135,Provider_0135,DEP08,Neurology
+DR0136,Provider_0136,DEP08,Neurology
+DR0137,Provider_0137,DEP08,Neurology
+DR0138,Provider_0138,DEP08,Neurology
+DR0139,Provider_0139,DEP08,Neurology
+DR0140,Provider_0140,DEP08,Neurology
+DR0141,Provider_0141,DEP08,Neurology
+DR0142,Provider_0142,DEP08,Neurology
+DR0143,Provider_0143,DEP08,Neurology
+DR0144,Provider_0144,DEP08,Neurology
+DR0145,Provider_0145,DEP09,Surgery
+DR0146,Provider_0146,DEP09,Surgery
+DR0147,Provider_0147,DEP09,Surgery
+DR0148,Provider_0148,DEP09,Surgery
+DR0149,Provider_0149,DEP09,Surgery
+DR0150,Provider_0150,DEP09,Surgery
+DR0151,Provider_0151,DEP09,Surgery
+DR0152,Provider_0152,DEP09,Surgery
+DR0153,Provider_0153,DEP09,Surgery
+DR0154,Provider_0154,DEP09,Surgery
+DR0155,Provider_0155,DEP09,Surgery
+DR0156,Provider_0156,DEP09,Surgery
+DR0157,Provider_0157,DEP09,Surgery
+DR0158,Provider_0158,DEP09,Surgery
+DR0159,Provider_0159,DEP10,Other
+DR0160,Provider_0160,DEP10,Other
+DR0161,Provider_0161,DEP10,Other
+DR0162,Provider_0162,DEP10,Other
+DR0163,Provider_0163,DEP10,Other
+DR0164,Provider_0164,DEP10,Other
+DR0165,Provider_0165,DEP10,Other
+DR0166,Provider_0166,DEP10,Other
+DR0167,Provider_0167,DEP10,Other
+DR0168,Provider_0168,DEP10,Other
+DR0169,Provider_0169,DEP10,Other
+DR0170,Provider_0170,DEP10,Other

@@ -1,0 +1,16 @@
+Primary_Diagnosis_Code,Diagnosis_Name,Encounters,Patients,Admissions,Avg_Wait_Minutes,Billed_Amount,Readmissions_30d,Readmission_Rate
+D001,Essential Hypertension,3584,3263,1332,52.2,12663880.39,47,0.0353
+D015,Other Acute Condition,3548,3232,771,55.8,8216529.26,24,0.0311
+D002,Type 2 Diabetes,2876,2681,938,52.6,9361828.24,39,0.0416
+D003,Respiratory Infection,2792,2602,473,55.2,5019427.16,14,0.0296
+D011,Fracture/Injury,2633,2451,722,57.1,6774462.13,31,0.0429
+D013,Acute Abdominal Condition,1899,1810,626,64.1,6982488.96,22,0.0351
+D005,Osteoarthritis,1493,1424,586,41.5,4648942.23,26,0.0444
+D010,Cancer - Active Treatment,1316,1267,427,38.7,4988220.48,22,0.0515
+D004,Heart Failure,1104,1078,559,44.8,5305952.02,23,0.0411
+D006,Coronary Artery Disease,970,950,450,43.8,4114150.72,14,0.0311
+D009,Depression/Anxiety,891,876,358,41.3,3228193.54,13,0.0363
+D007,Chronic Kidney Disease,806,788,348,43.6,3725821.69,12,0.0345
+D014,Neurologic Disorder,750,740,231,40.9,2180820.94,9,0.039
+D012,Pregnancy-Related,377,370,190,47.9,1744152.4,14,0.0737
+D008,COPD,331,326,157,42.7,1377850.89,6,0.0382

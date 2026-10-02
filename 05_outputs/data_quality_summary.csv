@@ -1,0 +1,13 @@
+Check,Count
+patients_rows,15000
+encounters_rows,25370
+patient_duplicate_ids,0
+encounter_duplicate_ids,0
+missing_marital_status,56
+missing_region,107
+missing_provider_id,36
+negative_billed_amount,0
+paid_gt_billed,0
+invalid_wait_time,0
+invalid_los,0
+invalid_dates,0

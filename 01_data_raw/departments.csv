@@ -1,0 +1,11 @@
+Department_ID,Department_Name,Service_Line
+DEP01,Emergency,Emergency Care
+DEP02,General Medicine,Medical
+DEP03,Cardiology,Specialty Care
+DEP04,Orthopedics,Surgical/Specialty
+DEP05,Oncology,Specialty Care
+DEP06,Pediatrics,Medical
+DEP07,Obstetrics,Women & Maternal Care
+DEP08,Neurology,Specialty Care
+DEP09,Surgery,Surgical
+DEP10,Other,Mixed Services

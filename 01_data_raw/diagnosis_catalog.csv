@@ -1,0 +1,16 @@
+Diagnosis_Code,Diagnosis_Name,Typical_Service_Line
+D001,Essential Hypertension,Cardiology
+D002,Type 2 Diabetes,General Medicine
+D003,Respiratory Infection,General Medicine
+D004,Heart Failure,Cardiology
+D005,Osteoarthritis,Orthopedics
+D006,Coronary Artery Disease,Cardiology
+D007,Chronic Kidney Disease,General Medicine
+D008,COPD,General Medicine
+D009,Depression/Anxiety,Neurology
+D010,Cancer - Active Treatment,Oncology
+D011,Fracture/Injury,Orthopedics
+D012,Pregnancy-Related,Obstetrics
+D013,Acute Abdominal Condition,Surgery
+D014,Neurologic Disorder,Neurology
+D015,Other Acute Condition,Other

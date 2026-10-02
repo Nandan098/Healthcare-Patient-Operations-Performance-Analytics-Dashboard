@@ -1,0 +1,15 @@
+{
+  "patients": 15000,
+  "encounters": 25370,
+  "admissions": 8168,
+  "avg_wait": 51.33728813559322,
+  "avg_inpatient_los": 4.2601153212520595,
+  "readmissions": 316,
+  "readmission_rate_on_admissions": 0.03868756121449559,
+  "billed": 80332721.04999998,
+  "paid": 58874389.410000004,
+  "collection_rate": 0.7328818025889591,
+  "high_wait_threshold": 124.0,
+  "high_bill_threshold": 22271.52240000003,
+  "long_los_threshold": 13.4
+}
